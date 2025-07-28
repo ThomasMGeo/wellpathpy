@@ -18,7 +18,7 @@ license = { file = "LICENSE" }
 platforms = "any"
 
 dependencies = [
-    "numpy >=1.10",
+    "numpy >=1.26.0",
 ]
 
 [project.optional-dependencies]
